@@ -39,10 +39,6 @@ Open `index.html` in a browser. There is no build step and no server. Three.js r
 
 This is a demonstration of reading operational data, not a project-control system. The figures are not connected to a live source, and the layout of the city is fixed to these seven projects.
 
-## Source of inspiration
-
-The idea of seeing a company as a strategy-game city with animated sites came from a logistics dashboard shown by [@robles.ia on TikTok](https://www.tiktok.com/@robles.ia).
-
 ## License
 
 MIT
