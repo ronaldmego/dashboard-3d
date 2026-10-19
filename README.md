@@ -1,8 +1,8 @@
-# Obras en vivo
+# Dashboard 3D
 
 A 3D map of a construction portfolio. Each project is built up to its actual progress, its key figures float above it, and a weekly timeline replays the schedule from the start to the projection at the current pace.
 
-**Live demo:** https://ronaldmego.github.io/obras-en-vivo/ · Spanish: `?lang=es`
+**Live demo:** https://ronaldmego.github.io/dashboard-3d/ · Spanish: `?lang=es`
 
 The company, Constructora Aldamar, is fictional and every figure is synthetic.
 
